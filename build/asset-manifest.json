@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/AmineCoder30/mason/static/css/main.059db544.css",
+    "main.js": "/AmineCoder30/mason/static/js/main.92d3b812.js",
+    "static/media/1080x360-01.jpg": "/AmineCoder30/mason/static/media/1080x360-01.02012dc54c24cd1d7c6b.jpg",
+    "static/media/610x610-01.jpg": "/AmineCoder30/mason/static/media/610x610-01.69c78082547d6a943e12.jpg",
+    "static/media/610x610-02.jpg": "/AmineCoder30/mason/static/media/610x610-02.ce16e84a4cfd9cb97941.jpg",
+    "static/media/610x610-04.jpg": "/AmineCoder30/mason/static/media/610x610-04.1b1aff16ba00f88d8ba9.jpg",
+    "static/media/gallery-img-23-05.jpg": "/AmineCoder30/mason/static/media/gallery-img-23-05.41c6019d9d5f0ceb86e5.jpg",
+    "static/media/610x610-03.jpg": "/AmineCoder30/mason/static/media/610x610-03.2717ce36736d722fcd1e.jpg",
+    "static/media/gallery-img-11-01.jpg": "/AmineCoder30/mason/static/media/gallery-img-11-01.28c44447d4fd6b1497a1.jpg",
+    "static/media/575x400-02.jpg": "/AmineCoder30/mason/static/media/575x400-02.7c281d4dad2d50ea1f22.jpg",
+    "static/media/gallery-img-12-04.jpg": "/AmineCoder30/mason/static/media/gallery-img-12-04.9ad442dbea25143fb9c6.jpg",
+    "static/media/gallery-img-11-07.jpg": "/AmineCoder30/mason/static/media/gallery-img-11-07.fcd372b590858da7226a.jpg",
+    "static/media/575x400-01.jpg": "/AmineCoder30/mason/static/media/575x400-01.0871a4e5fbe85b790edf.jpg",
+    "static/media/gallery-img-23-03.jpg": "/AmineCoder30/mason/static/media/gallery-img-23-03.8914c35e3f00028a8559.jpg",
+    "static/media/gallery-img-23-04.jpg": "/AmineCoder30/mason/static/media/gallery-img-23-04.21bf3932f2ba8620b520.jpg",
+    "static/media/gallery-img-23-02.jpg": "/AmineCoder30/mason/static/media/gallery-img-23-02.4fff2da85eee4449556a.jpg",
+    "static/media/gallery-img-12-01.jpg": "/AmineCoder30/mason/static/media/gallery-img-12-01.e75642f0417af8885387.jpg",
+    "static/media/gallery-img-11-04.jpg": "/AmineCoder30/mason/static/media/gallery-img-11-04.b3f38ec5d24d46f2f330.jpg",
+    "static/media/gallery-img-11-02.jpg": "/AmineCoder30/mason/static/media/gallery-img-11-02.391c80d7615648033da4.jpg",
+    "static/media/gallery-img-11-05.jpg": "/AmineCoder30/mason/static/media/gallery-img-11-05.1e8e26bedcb5ba8dd5ce.jpg",
+    "static/media/gallery-img-12-02.jpg": "/AmineCoder30/mason/static/media/gallery-img-12-02.4377c1c21bb9ca9b1f7c.jpg",
+    "static/media/gallery-img-23-01.jpg": "/AmineCoder30/mason/static/media/gallery-img-23-01.51e723fb4b819c66d548.jpg",
+    "static/media/gallery-img-12-03.jpg": "/AmineCoder30/mason/static/media/gallery-img-12-03.7ef3ad59f35b6bb41081.jpg",
+    "static/media/gallery-img-11-06.jpg": "/AmineCoder30/mason/static/media/gallery-img-11-06.8a0282553549f9521536.jpg",
+    "static/media/gallery-img-11-03.jpg": "/AmineCoder30/mason/static/media/gallery-img-11-03.9e7e2a56646d4454ca28.jpg",
+    "index.html": "/AmineCoder30/mason/index.html",
+    "main.059db544.css.map": "/AmineCoder30/mason/static/css/main.059db544.css.map",
+    "main.92d3b812.js.map": "/AmineCoder30/mason/static/js/main.92d3b812.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.059db544.css",
+    "static/js/main.92d3b812.js"
+  ]
+}
